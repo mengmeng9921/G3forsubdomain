@@ -1,6 +1,6 @@
 # G3forsubdomain
 
-工具参考：https://github.com/chaitanyakrishna/subdomain-enum
+工具思路参考：https://github.com/chaitanyakrishna/subdomain-enum
 
 子域名API接口批量提取工具
 
