@@ -21,9 +21,12 @@ options:
   -k    APIKEY,     --apikey  APIKEY        -k    apikey
 
 
-简单使用样例：\n
-python G3forsubdomain.py -u   baidu.com     -k APIKEY\n
-python G3forsubdomain.py -uf  domains.txt   -k APIKEY\n
+简单使用样例：
+
+python G3forsubdomain.py -u   baidu.com     -k APIKEY
+
+python G3forsubdomain.py -uf  domains.txt   -k APIKEY
+
 
 固定APIKEY：
 打开G3forsubdomain.py，将第十二行的apikey = "b14lDrfpiVQz6KNWRE59ja27J2dtQFVD"，替换为自己的key。
