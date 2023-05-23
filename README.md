@@ -2,6 +2,8 @@
 
 子域名API接口批量提取工具
 
+注册API：https://securitytrails.com/
+
 
   ▄████  ██▀███   ███▄ ▄███▓
   
