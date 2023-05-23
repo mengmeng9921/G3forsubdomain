@@ -20,17 +20,6 @@
 ░ ░   ░   ░░   ░ ░      ░       https[:]//github.com/mengmeng9921/
 
       ░    ░            ░                                       
-      
-
-usage: G3forsubdomain.py [-h] [-u URL] [-uf URLFILE] [-p PATH] [-k APIKEY]
-
-
-options:
-  -h,   --help      show this help message and exit
-  -u    URL,        --url     URL           -u    baidu.com
-  -uf   URLFILE,    --urlfile URLFILE       -uf    domain.txt
-  -p    PATH,       --path    PATH          -p    result.txt
-  -k    APIKEY,     --apikey  APIKEY        -k    apikey
 
 
 简单使用样例：
